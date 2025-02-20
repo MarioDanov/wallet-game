@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\config\\bettinggameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\config\\bettinggameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\interfaces\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\interfaces\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\models\\bettinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\models\\bettinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|c:\\users\\mario\\source\\repos\\wallet-game\\walletgame\\walletgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AFEE10-5F18-4A51-88EA-0375799C488E}|WalletGame\\WalletGame.csproj|solutionrelative:walletgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BettingGameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Config\\BettingGameConfig.cs",
+              "RelativeDocumentMoniker": "WalletGame\\Config\\BettingGameConfig.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Config\\BettingGameConfig.cs",
+              "RelativeToolTip": "WalletGame\\Config\\BettingGameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:17:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Interfaces\\IRandomProvider.cs",
+              "RelativeDocumentMoniker": "WalletGame\\Interfaces\\IRandomProvider.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Interfaces\\IRandomProvider.cs",
+              "RelativeToolTip": "WalletGame\\Interfaces\\IRandomProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:17:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "WalletGame\\Models\\Wallet.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Models\\Wallet.cs",
+              "RelativeToolTip": "WalletGame\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:17:10.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BettingGame.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Models\\BettingGame.cs",
+              "RelativeDocumentMoniker": "WalletGame\\Models\\BettingGame.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Models\\BettingGame.cs",
+              "RelativeToolTip": "WalletGame\\Models\\BettingGame.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:17:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\UI\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "WalletGame\\UI\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\UI\\ConsoleUI.cs",
+              "RelativeToolTip": "WalletGame\\UI\\ConsoleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:09:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Program.cs",
+              "RelativeDocumentMoniker": "WalletGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\wallet-game\\WalletGame\\WalletGame\\Program.cs",
+              "RelativeToolTip": "WalletGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:04:55.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
